@@ -330,9 +330,6 @@ http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=f3717aea2397fd79d
 #EXTINF:-1 group-title="Filme e Serie",JAIR NETO Fox Premium 2 HD [Alter]
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=f3717aea2397fd79d723acfdd382d410
 
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/images/logo.png" group-title="", Listaiptvbrasil.com 25/11/16
 http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
 
